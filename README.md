@@ -4,3 +4,5 @@ The privacy policy for the Steppe & Stone game (Android and iOS), served with Gi
 https://burkseker.github.io/steppe-and-stone-privacy/ (Turkish and English on one page).
 
 The source text lives in the game's repository at `docs/privacy-policy.md`.
+
+Terms of service: https://burkseker.github.io/steppe-and-stone-privacy/terms/ (`terms/index.html`, Turkish and English on one page).
